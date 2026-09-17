@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <title>{{ page.title }} | The Annals of the Thorned Mere</title>
+</head>
+<body>
+  <header>
+    <span style="font-weight: 900; font-size: 20px">The Annals of the Thorned Mere</span><br />
+    A comprehensive guide to the Kingdoms of Thornmere, Vet Engi, and the Eastern Marches.
+  </header>
+
+  <div class="main-layout">
+    <!-- Sidebar -->
+    <nav class="sidebar">
+      <h3>Navigation</h3>
+      <ul>
+        <li><a href="{{ '/mere/' | relative_url }}">Main Page</a></li>
+        <li><a href="{{ '/mere/thornmere' | relative_url }}">Thornmere</a></li>
+        <li><a href="{{ '/mere/vetengi' | relative_url }}">Vet Engi</a></li>
+        <li><a href="{{ '/mere/east' | relative_url }}">Eastern Marches</a></li>
+      </ul>
+
+      <h3>History</h3>
+      <ul>
+        <li><a href="{{ '/mere/history' | relative_url }}">Historical Timeline</a></li>
+        <li><a href="{{ '/mere/timeline' | relative_url }}">Modern Timeline</a></li>
+        <li><a href="{{ '/mere/events' | relative_url }}">Key Events</a></li>
+      </ul>
+
+      <h3>Meta</h3>
+      <ul>
+        <li><a href="{{ '/mere/cat' | relative_url }}">Categories</a></li>
+      </ul>
+    </nav>
+
+    <!-- Main content -->
+    <div class="wiki-container">
+      {{ content }}
+    </div>
+  </div>
+</body>
+</html>
