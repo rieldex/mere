@@ -21,9 +21,9 @@ Magic in this world is innate—only those born with the "Gift" can wield it. Th
 <div class="grid-container">
   <div>
     <ul>
-      <li><a href="https://rieldex.github.io/mere/thornmere">Thornmere</a> — The Southern Kingdom</li>
-      <li><a href="https://rieldex.github.io/mere/vetengi">Vet Engi</a> — The Winter Kingdom</li>
-      <li><a href="https://rieldex.github.io/mere/east">Eastern Marches</a> — The Principalities</li>
+      <li><a href="https://rieldex.github.io/mere/thornmere.md">Thornmere</a> — The Southern Kingdom</li>
+      <li><a href="https://rieldex.github.io/mere/vetengi.md">Vet Engi</a> — The Winter Kingdom</li>
+      <li><a href="https://rieldex.github.io/mere/east.md">Eastern Marches</a> — The Principalities</li>
     </ul>
   </div>
   <div>
