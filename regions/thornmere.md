@@ -30,7 +30,7 @@ title: "Thornmere"
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Ruler</span>
-		<span class="infobox-value">King Fiacre Thorne (r. 1499–present)</span>
+		<span class="infobox-value">King Fiacre Thorne<br>(r. 1499–present)</span>
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Heir</span>
@@ -42,11 +42,11 @@ title: "Thornmere"
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Founded</span>
-		<span class="infobox-value">c. 925 (Confederation) / c. 1200 (Kingdom)</span>
+		<span class="infobox-value">c. 925 (Confederation)<br>c. 1200 (Kingdom)</span>
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Dynasty</span>
-		<span class="infobox-value">House Thorne (r. 1200–present)</span>
+		<span class="infobox-value">House Thorne<br>(r. 1200–present)</span>
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Region</span>
@@ -68,11 +68,13 @@ The Confederation (c. 925)
 
 The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities—each ruled by a Great Prince—pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
 
-    Yves Moore — Scholarship & Magic
-    Nathaniel Solon — Military & Crown
-    Rene Castor — Law & Administration
-    Declan Circia — Church & Theology
-    Vivien Aimery — Land & Resources
-    Cecil Ansell — Trade & Waterways
+<ul>
+<li>Yves Moore — Scholarship & Magic</li>
+<li>Nathaniel Solon — Military & Crown</li>
+<li>Rene Castor — Law & Administration</li>
+<li>Declan Circia — Church & Theology</li>
+<li>Vivien Aimery — Land & Resources</li>
+<li>Cecil Ansell — Trade & Waterways</li>
+</ul>
 
-This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively.
+This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively, which also led to much stalling of decrees.
