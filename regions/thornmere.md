@@ -58,8 +58,21 @@ title: "Thornmere"
 	</div>
 </div>
 
-<span class="acc">Overview</span>
-<hr />
 The Kingdom of Thornmere, formerly known as the Confederation of the Thorned Mere, is the dominant power in the south. Its lands are scattered across marshes, inland seas, wetlands, and waterways, dotted with thorny forests that give the kingdom its name. It is old, wealthy, hierarchical, and deeply religious, ruled by both Crown and Church in an intertwined system of governance.
 
 Noble blood is considered divinely favoured, and magical noble bloodlines are particularly prestigious. The kingdom is known throughout the known world for its magical education, and its noble academies and private tutors are sought after even by foreign powers.
+
+<span class="acc">History</span>
+<hr />
+The Confederation (c. 925)
+
+The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities—each ruled by a Great Prince—pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
+
+    Yves Moore — Scholarship & Magic
+    Nathaniel Solon — Military & Crown
+    Rene Castor — Law & Administration
+    Declan Circia — Church & Theology
+    Vivien Aimery — Land & Resources
+    Cecil Ansell — Trade & Waterways
+
+This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively.
