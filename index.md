@@ -17,6 +17,7 @@ Magic in this world is innate—only those born with the "Gift" can wield it. Th
 <li>Eastern Marches: Magic is interpreted through the lens of ancestor worship and regional traditions, and is used most regularly in daily life.</li>
 </ul>
 The master-apprentice relationship is sacred through Thornmere. Apprentices are considered culpable for their master's crimes, as it is their responsibility to be aware and report wrongdoing. Failure to do so is seen as complicity.
+
 <span class="acc">Quick Links</span>
 <hr />
 <div class="grid-container">
