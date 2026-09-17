@@ -40,7 +40,7 @@
 			color: var(--text-primary);
 			line-height: 1.6;
 			margin: auto;
-			font-size: 14px;
+			font-size: 16px;
 		}
 
 		header {
@@ -50,7 +50,7 @@
 			margin: 10px;
 			text-align: left;
 			line-height: 15px;
-			border: 3px solid var(--border);
+			border: 2px solid var(--border);
 		}
 
 		/* Main layout container */
@@ -63,7 +63,7 @@
 		/* Sidebar styles */
 		.sidebar {
 			background-color: var(--bg-secondary);
-			border: 3px solid var(--border);
+			border: 2px solid var(--border);
 			padding: 10px;
 			width: 220px;
 			flex-shrink: 0; /* Prevents sidebar from shrinking */
@@ -73,17 +73,18 @@
 			color: var(--accent);
 			font-weight: 900;
 			font-size: 16px;
-			margin-bottom: 10px;
+			margin-bottom: 5px;
 			border-bottom: 2px solid var(--border);
 			padding-bottom: 5px;
 		}
 
-		.sidebar ul {
+		ul {
 			list-style: none;
 			padding-left: 0;
+			padding-top: 5px;
 		}
 
-		.sidebar li {
+		li {
 			margin-bottom: 8px;
 			padding-left: 10px;
 			border-left: 2px solid var(--accent);
@@ -101,9 +102,9 @@
 
 		.wiki-container {
 			background-color: var(--bg-secondary);
-			border: 3px solid var(--border);
+			border: 2px solid var(--border);
 			padding: 10px;
-			flex: 1; /* Takes remaining space */
+			flex: 1;
 			overflow-y: scroll;
 			min-height: 600px;
 		}
@@ -112,6 +113,11 @@
 			color: var(--accent);
 			font-weight: 900;
 			font-size: 18px;
+		}
+
+		hr {
+			margin-bottom: 5px;
+			border-bottom: 1px solid var(--border);
 		}
 
 		.grid-container {
@@ -128,7 +134,7 @@
 			A comprehensive guide to the Kingdoms of Thornmere, Vet Engi, and
 			the Eastern Marches.
 		</header>
-		
+
 		<div class="main-layout">
 			<!-- Sidebar -->
 			<nav class="sidebar">
@@ -139,21 +145,20 @@
 					<li><a href="#">Vet Engi</a></li>
 					<li><a href="#">Eastern Marches</a></li>
 				</ul>
-				
+
 				<h3>History</h3>
 				<ul>
-					<li><a href="#">Thorne Conquest</a></li>
-					<li><a href="#">Solon-Moore Rivalry</a></li>
-					<li><a href="#">9th Holy War</a></li>
+					<li><a href="#">Historical Timeline</a></li>
+					<li><a href="#">Modern Timeline</a></li>
+					<li><a href="#">Key Events</a></li>
 				</ul>
-				
+
 				<h3>Meta</h3>
 				<ul>
-					<li><a href="#">Recent Changes</a></li>
 					<li><a href="#">Categories</a></li>
 				</ul>
 			</nav>
-			
+
 			<!-- Main content -->
 			<div class="wiki-container">
 				<em
@@ -162,23 +167,63 @@
 				><br />
 				<span class="acc">About the World</span>
 				<hr />
-				This wiki documents the gothic medieval setting of Thornmere, Vet
-				Engi, and the Eastern Marches—three regions bound by magic, faith,
-				and centuries of conflict. Magic is innate to certain bloodlines or
-				manifested spontaneously, manifesting as the "gift" that can be
-				cultivated through study and training. The current year is 1527.<br />
+				This wiki is a comprehensive repository of knowledge for this
+				gothic medieval fantasy setting where magic is innate and
+				kingdoms vie for power, influence, and divine favour. The world
+				is divided into three major regions: the southern Kingdom of
+				Thornmere, the northern Vetrarengisríki (Vet Engi), and the
+				politically fragmented Eastern Marches. Magic is innate to
+				certain bloodlines or manifested spontaneously, manifesting as
+				the "gift" that can be cultivated through study and training.
+				The current year is 1527.<br />
+				<span class="acc">Magic in the World</span>
+				<hr />
+				Magic in this world is innate—only those born with the "Gift"
+				can wield it. This is typical of nobles, but noble blood is not
+				a guarantee of the Gift; it can also manifest spontaneously.
+				Once manifested, magical ability can be cultivated through
+				rigorous study and training. The social and political importance
+				of magic varies by region:
+				<ul>
+					<li>
+						<span style="font-weight: 900">Thornmere</span>: Magic
+						is highly studied and formalised. Noble bloodlines with
+						magical heritage are considered divinely favored. Blood
+						magic is strictly forbidden.
+					</li>
+					<li>
+						<span style="font-weight: 900">Vet Engi</span>: Magic is
+						viewed as a wild, natural force. It is less studied and
+						more respected as an aspect of nature itself. Blood
+						magic is frowned upon as a perversion.
+					</li>
+					<li>
+						<span style="font-weight: 900">Eastern Marches</span>:
+						Magic is interpreted through the lens of ancestor
+						worship and regional traditions, and is used most
+						regularly in daily life.
+					</li>
+				</ul>
+				The master-apprentice relationship is sacred throughout all
+				regions. Apprentices are considered culpable for their master's
+				crimes, as it is their responsibility to be aware and report
+				wrongdoing. Failure to do so is seen as complicity.<br />
 				<span class="acc">Quick Links</span>
 				<hr />
 				<div class="grid-container">
 					<div>
-						Thornmere — The Southern Kingdom<br />
-						Vet Engi — The Winter Kingdom<br />
-						Eastern Marches — The Principalities
+						<ul>
+							<li>Thornmere — The Southern Kingdom</li>
+							<li>Vet Engi — The Winter Kingdom</li>
+							<li>Eastern Marches — The Principalities</li>
+						</ul>
 					</div>
 					<div>
-						The Thorne Conquest (1194–1200)<br />
-						Solon-Moore Rivalry (1370–present)<br />
-						9th Vet Engi-Thornmere Holy War (1410–1418)
+						<ul>
+							<li>The Thorne Conquest (1194–1200)</li>
+							<li>Solon-Moore Rivalry (1370–present)</li>
+							<li>9th Vet Engi-Thornmere Holy War (1410–1418)</li>
+						</ul>
 					</div>
 				</div>
 			</div>
