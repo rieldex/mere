@@ -11,11 +11,11 @@ This wiki is a comprehensive repository of knowledge for this gothic medieval fa
 <hr />
 Magic in this world is innate—only those born with the "Gift" can wield it. This is typical of nobles, but noble blood is not a guarantee of the Gift; it can also manifest spontaneously. Once manifested, magical ability can be cultivated through rigorous study and training. The social and political importance of magic varies by region:
 <ul>
-<li>Thornmere: Magic is highly studied and formalised. Noble bloodlines with magical heritage are considered divinely favored. Blood magic is strictly forbidden.</li>
+<li>Thornmere: Magic is highly studied and formalised. Noble bloodlines with magical heritage are considered divinely favored. Blood magic is strictly forbidden. The master-apprentice relationship is sacred through Thornmere. Apprentices are considered culpable for their master's crimes, as it is their responsibility to be aware and report wrongdoing. Failure to do so is seen as complicity.</li>
 <li>Vet Engi: Magic is viewed as a wild, natural force. It is less studied and more respected as an aspect of nature itself. Blood magic is frowned upon as a perversion.</li>
 <li>Eastern Marches: Magic is interpreted through the lens of ancestor worship and regional traditions, and is used most regularly in daily life.</li>
 </ul>
-The master-apprentice relationship is sacred through Thornmere. Apprentices are considered culpable for their master's crimes, as it is their responsibility to be aware and report wrongdoing. Failure to do so is seen as complicity.<br>
+<br>
 <span class="acc">Quick Links</span>
 <hr />
 <div class="grid-container">
