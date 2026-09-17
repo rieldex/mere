@@ -82,7 +82,7 @@ This confederation was not a kingdom, but a council of equals. Each Great Prince
 <b>The Thorne Ascension (c. 1200)</b><br>
 The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Houses (since 1194)—tired of decisions taking years to be put into place and believing that due to their house name they were divinely destined to be the ruling dynasty—seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time.<br>
 
-<b>The Church Consolidation (c. 1280)</b<br>
+<b>The Church Consolidation (c. 1280)</b>br>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
 
 <b>The Thornmere-Vet Engi Holy Wars (1300–1418)</b><br>
