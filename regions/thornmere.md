@@ -86,9 +86,7 @@ The Church of Dyeus Tetratos consolidated its authority heavily under the backin
 Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.
 
 <h2>Government & Society</h2>
-Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour.
-
-The Great Houses form the backbone of Thornmere's political structure. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
+Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Great Lord, form the backbone of Thornmere's political structure; the Great Lords sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
 
 <table>
   <thead>
