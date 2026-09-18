@@ -135,7 +135,7 @@ tbody tr:last-child td {
 }
 
 tbody tr td:first-child {
-  font-weight:900;
+  font-weight:900; 
 }
 
 tbody tr:nth-child(even) {
