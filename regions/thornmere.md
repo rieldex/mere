@@ -3,7 +3,7 @@ layout: wiki
 title: "Thornmere"
 ---
 
-<span class="acc">Thornmere</span>
+<h2>Thornmere</h2>
 <hr />
 
 <div class="infobox">
