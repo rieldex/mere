@@ -15,7 +15,6 @@ Magic in this world is innate—only those born with the "Gift" can wield it. Th
 <li>Vet Engi — Magic is viewed as a wild, natural force—an extension of the land, the seasons, and the gods. It is less formally studied and more respected as an aspect of nature itself. Blood magic is not explicitly forbidden, but is frowned upon as a perversion of the natural order. Consanguineous marriages in order to concentrate certain gifts is common.</li>
 <li>Eastern Marches — Magic is interpreted through the lens of ancestor worship and regional traditions. It is woven more regularly into daily life and spiritual practices, and is less politically concentrated than in Thornmere or Vet Engi.</li>
 </ul>
-<br>
 <span class="acc">Quick Links</span>
 <hr />
 <div class="grid-container">
