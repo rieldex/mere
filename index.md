@@ -4,7 +4,7 @@ title: "Main Page"
 ---
 
 <ul><li><em>"By Blood and Crown, By Thorn and Mere" — Royal Motto of Thornmere</em></li></ul>
-<h2About the World</h2>
+<h2>About the World</h2>
 This wiki is a comprehensive repository of knowledge for this gothic medieval fantasy setting where magic is innate and kingdoms vie for power, influence, and divine favour. The world is divided into three major regions: the southern Kingdom of Thornmere, the northern Vetrarengisríki (Vet Engi), and the politically fragmented Eastern Marches. Magic is innate to certain bloodlines or manifested spontaneously, manifesting as the "gift" that can be cultivated through study and training. The current year is 1527.<br>
 <h2>Magic in the World</h2>
 Magic in this world is innate. Only those born with the "Gift" can wield it. This is typical of noble bloodlines, but noble blood is not a guarantee of the Gift; it can also manifest spontaneously in commoners, though this is rarer and often less cultivated. Once manifested, magical ability can be honed through rigorous study and training. The social and political importance of magic varies by region:
