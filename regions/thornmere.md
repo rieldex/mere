@@ -77,7 +77,7 @@ The foundations of Thornmere lie in the Confederation of the Thorned Mere, forme
 This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively. This led to much stalling of decrees.<br>
 
 <h3>The Thorne Ascension (c. 1200)</h3>
-The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Houses (since 1194), tired of decisions taking years to be put into place (and believing that due to their house name they were divinely destined to be the ruling dynasty), seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time.<br>
+The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Princes (since 1194), tired of decisions taking years to be put into place (and believing that due to their house name they were divinely destined to be the ruling dynasty), seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time. They allowed the Princes to retain some power, naming them Viceroyalties.<br>
 
 <h3>The Church Consolidation (c. 1280)</h3>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
@@ -86,7 +86,7 @@ The Church of Dyeus Tetratos consolidated its authority heavily under the backin
 Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.<br>
 
 <h2>Government & Society</h2>
-Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Great Lord, form the backbone of Thornmere's political structure; the Great Lords sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
+Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Lord Viceroy, form the backbone of Thornmere's political structure; the Lord Viceroys sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
 <br>
 <br>
 <table>
@@ -159,18 +159,42 @@ The Church of Dyeus Tetratos wields significant political power, and its authori
 <table>
   <thead>
     <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
+      <th>Position</th>
+      <th>Holder</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>King of Thornmere</td>
+      <td>King Fiacre Thorne (58)</td>
     </tr>
     <tr>
-      <td>Row 2, Cell 1</td>
-      <td>Row 2, Cell 2</td>
+      <td>Crown Prince</td>
+      <td>Prince Selwinn Thorne (28)</td>
+    </tr>
+    <tr>
+      <td>House Moore</td>
+      <td>Lord Viceroy Ruthen Moore (40) <em>(Reese Moore disgraced)</em></td>
+    </tr>
+    <tr>
+      <td>House Solon</td>
+      <td>Lord Viceroy Nicolas Solon (54)</td>
+    </tr>
+    <tr>
+      <td>House Castor</td>
+      <td>Lord Viceroy Ernest Castor (37)</td>
+    </tr>
+    <tr>
+      <td>House Circia</td>
+      <td>Lord Viceroy Gawain Circia (40)</td>
+    </tr>
+    <tr>
+      <td>House Aimery</td>
+      <td>Lady Viceroy Clementine Aimery (27)</td>
+    </tr>
+    <tr>
+      <td>House Ansell</td>
+      <td>Lord Viceroy Lorelei Ansell (29)</td>
     </tr>
   </tbody>
 </table>
