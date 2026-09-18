@@ -86,7 +86,7 @@ The Church of Dyeus Tetratos consolidated its authority heavily under the backin
 Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.<br>
 
 <h2>Government & Society</h2>
-Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Lord Viceroy, form the backbone of Thornmere's political structure; the Lord Viceroys sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
+Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male-only primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Lord/Lady Viceroy, form the backbone of Thornmere's political structure; the Lord/Lady Viceroys sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. The heir to the house is known as a Count(ess)-Viceroy, and passes through male-preference primogeniture. They are:
 <br>
 <table>
   <thead>
@@ -136,6 +136,8 @@ Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes 
     </tr>
   </tbody>
 </table>
+
+// insert brief history on the houses here
 
 <h2>Law & Magic</h2>
 Blood magic is strictly forbidden under both Crown and Church law. The use of one's own blood or the blood of others to fuel magical workings is considered a desecration of the divine gift, and is punishable by death or permanent magical suppression through binding cuffs. The Church's Inquisitorial Court handles cases involving blood magic, necromancy, and desecration of corpses.
