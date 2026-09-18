@@ -4,7 +4,6 @@ title: "Thornmere"
 ---
 
 <h2>Thornmere</h2>
-<hr />
 
 <div class="infobox">
 	<div class="infobox-title">Kingdom of Thornmere</div>
@@ -62,9 +61,8 @@ The Kingdom of Thornmere, formerly known as the Confederation of the Thorned Mer
 
 Noble blood is considered divinely favoured, and magical noble bloodlines are particularly prestigious. The kingdom is known throughout the known world for its magical education, and its noble academies and private tutors are sought after even by foreign powers.
 
-<span class="acc">History</span>
-<hr />
-<div class="acc2">The Confederation (c. 925)</div>
+<h2>History</h2>
+<h3>The Confederation (c. 925)</h3>
 The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities—each ruled by a Great Prince—pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
 
 <ul>
