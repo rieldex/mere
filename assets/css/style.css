@@ -5,6 +5,12 @@
   color: #000;
 }
 
+br {
+  content: "";
+  display: block;
+  margin-bottom: 10px; 
+}
+
 :root {
   --bg-primary: #fff;
   --bg-secondary: #f2f0eb;
