@@ -87,7 +87,7 @@ Thornmere engaged in a series of holy wars with Vet Engi, driven by religious te
 
 <h2>Government & Society</h2>
 Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Great Lord, form the backbone of Thornmere's political structure; the Great Lords sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
-<br>
+<p></p>
 <table>
   <thead>
     <tr>
