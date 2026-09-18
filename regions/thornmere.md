@@ -95,20 +95,49 @@ The Great Houses form the backbone of Thornmere's political structure. Each hous
     <tr>
       <th>Header 1</th>
       <th>Header 2</th>
+	  <th>Header 3</th>
+	  <th>Header 4</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Row 1, Cell 1</td>
       <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
     </tr>
     <tr>
-      <td>Row 2, Cell 1</td>
-      <td>Row 2, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+    </tr>
+    <tr>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
+      <td>Row 1, Cell 1</td>
+      <td>Row 1, Cell 2</td>
     </tr>
   </tbody>
 </table>
-
 
 <h2>Law & Magic</h2>
 Blood magic is strictly forbidden under both Crown and Church law. The use of one's own blood or the blood of others to fuel magical workings is considered a desecration of the divine gift, and is punishable by death or permanent magical suppression through binding cuffs. The Church's Inquisitorial Court handles cases involving blood magic, necromancy, and desecration of corpses.
