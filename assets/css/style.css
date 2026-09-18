@@ -23,7 +23,7 @@ a {
 
 body {
   font-family: "Crimson Text", serif;
-  background: #fff;
+  background: var(--bg-primary);
   color: var(--text-primary);
   line-height: 1.6;
   margin: auto;
@@ -51,8 +51,25 @@ header {
   border: 2px solid var(--border);
   padding: 10px;
   width: 220px;
-  height:100%;
+  height: 100%;
   flex-shrink: 0;
+}
+
+.wiki-container h2 {
+  color: var(--accent);
+  font-weight: 900;
+  font-size: 20px;
+  margin-bottom: 5px;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 5px;
+}
+
+.wiki-container h3 {
+  color: var(--text-primary);
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 .sidebar h3 {
@@ -105,7 +122,7 @@ li {
 .acc {
   color: var(--accent);
   font-weight: 900;
-  font-size: 20px; 
+  font-size: 20px;
 }
 
 hr {
@@ -120,66 +137,66 @@ hr {
 }
 
 .infobox {
-	float: right;
-	width: 280px;
-	background-color: var(--bg-secondary);
-	border: 2px solid var(--border);
-	margin: 0 0 15px 15px;
-	padding: 0;
-	font-size: 14px;
+  float: right;
+  width: 280px;
+  background-color: var(--bg-secondary);
+  border: 2px solid var(--border);
+  margin: 0 0 15px 15px;
+  padding: 0;
+  font-size: 14px;
 }
 
 .infobox-title {
-	background-color: var(--bg-primary);
-	color: var(--accent);
-	font-weight: 900;
-	font-size: 16px;
-	text-align: center;
-	padding: 8px;
-	border-bottom: 2px solid var(--border);
+  background-color: var(--bg-primary);
+  color: var(--accent);
+  font-weight: 900;
+  font-size: 16px;
+  text-align: center;
+  padding: 8px;
+  border-bottom: 2px solid var(--border);
 }
 
 .infobox-image {
-	text-align: center;
-	padding: 10px;
-	border-bottom: 1px solid var(--border);
+  text-align: center;
+  padding: 10px;
+  border-bottom: 1px solid var(--border);
 }
 
 .infobox-image img {
-	max-width: 100%;
-	height: auto;
-	border: 1px solid var(--border);
-	display: block;
-	margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+  display: block;
+  margin: 0 auto;
 }
 
 .infobox-caption {
-	font-size: 12px;
-	font-style: italic;
-	margin-top: 5px;
-	color: var(--text-secondary);
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 5px;
+  color: var(--text-secondary);
 }
 
 .infobox-row {
-	display: flex;
-	border-bottom: 1px solid var(--border);
+  display: flex;
+  border-bottom: 1px solid var(--border);
 }
 
 .infobox-row:last-child {
-	border-bottom: none;
+  border-bottom: none;
 }
 
 .infobox-label {
-	font-weight: 700;
-	width: 40%;
-	padding: 6px 8px;
-	background-color: rgba(0, 0, 0, 0.03);
-	border-right: 1px solid var(--border);
+  font-weight: 700;
+  width: 40%;
+  padding: 6px 8px;
+  background-color: rgba(0, 0, 0, 0.03);
+  border-right: 1px solid var(--border);
 }
 
 .infobox-value {
-	width: 60%;
-	padding: 6px 8px;
+  width: 60%;
+  padding: 6px 8px;
 }
 
 /* ============================================
