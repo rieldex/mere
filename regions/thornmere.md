@@ -79,11 +79,11 @@ The foundations of Thornmere lie in the Confederation of the Thorned Mere, forme
 
 This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively. This led to much stalling of decrees.<br>
 
-<h3>The Thorne Ascension (c. 1200)</h3><br>
+<span class="acc2">The Thorne Ascension (c. 1200)</span><hr>
 The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Houses (since 1194)—tired of decisions taking years to be put into place and believing that due to their house name they were divinely destined to be the ruling dynasty—seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time.<br>
 
-<h3>The Church Consolidation (c. 1280)</h3><br>
+<span class="acc2">The Church Consolidation (c. 1280)</span><hr>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
 
-<h3>The Thornmere-Vet Engi Holy Wars (1300–1418)</h3><br>
+<span class="acc2">The Thornmere-Vet Engi Holy Wars (1300–1418)</span><hr>
 Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.
