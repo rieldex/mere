@@ -14,7 +14,6 @@ Magic in this world is innate. Only those born with the "Gift" can wield it. Thi
 <li><b>Eastern Marches</b> — Magic is interpreted through the lens of ancestor worship and regional traditions. It is woven more regularly into daily life and spiritual practices, and is less politically concentrated than in Thornmere or Vet Engi.</li>
 </ul>
 <h2>Quick Links</h2>
-<hr />
 <div class="grid-container">
   <div>
     <ul>
