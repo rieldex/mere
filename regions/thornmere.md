@@ -63,7 +63,7 @@ Noble blood is considered divinely favoured, and magical noble bloodlines are pa
 
 <h2>History</h2>
 <h3>The Confederation (c. 925)</h3>
-The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities—each ruled by a Great Prince—pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
+The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities (each ruled by a Prince) pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
 
 <ul>
 <li><b>Yves Moore</b> — Scholarship & Magic</li>
@@ -77,7 +77,7 @@ The foundations of Thornmere lie in the Confederation of the Thorned Mere, forme
 This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively. This led to much stalling of decrees.<br>
 
 <h3>The Thorne Ascension (c. 1200)</h3>
-The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Houses (since 1194)—tired of decisions taking years to be put into place and believing that due to their house name they were divinely destined to be the ruling dynasty—seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time.<br>
+The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Houses (since 1194), tired of decisions taking years to be put into place (and believing that due to their house name they were divinely destined to be the ruling dynasty), seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time.<br>
 
 <h3>The Church Consolidation (c. 1280)</h3>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
