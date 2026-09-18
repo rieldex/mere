@@ -100,16 +100,12 @@ li {
   font-weight: 900;
   font-size: 14px;
   margin-bottom: 5px;
-  border-bottom: 2px solid var(--border);
-  padding-bottom: 5px;
 }
 
 .acc {
   color: var(--accent);
   font-weight: 900;
   font-size: 18px;
-  margin-bottom: 5px;
-  border-bottom: 1px solid var(--border);
 }
 
 hr {
