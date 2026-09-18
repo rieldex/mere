@@ -104,7 +104,7 @@ li {
 .acc {
   color: var(--accent);
   font-weight: 900;
-  font-size: 20px;
+  font-size: 20px; 
 }
 
 hr {
