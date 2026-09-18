@@ -116,7 +116,7 @@ Blood magic is strictly forbidden under both Crown and Church law. The use of on
 The master-apprentice tradition is legally codified in Thornmere. Apprentices are considered culpable for their master's crimes if they were aware of them and failed to report them. This doctrine of complicity is one of the cornerstones of Thornmere's magical regulation.
 
 <h2>Religion</h2>
-<em>Main Article: Tetratism</em>
+<em><b>Main Article</b>: <a href="https://rieldex.github.io/mere/faith/tetratism">Tetratism</a></em><br>
 Thornmere is generally monotheistic, worshipping Dyeus Tetratos, a single god who contains four aspects:
 <ul>
 	<li>Dyeus Artos (Law)</li>
