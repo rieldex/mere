@@ -77,7 +77,11 @@ The foundations of Thornmere lie in the Confederation of the Thorned Mere, forme
 This confederation was not a kingdom, but a council of equals. Each Great Prince retained significant autonomy, and decisions were made collectively. This led to much stalling of decrees.<br>
 
 <h3>The Thorne Ascension (c. 1200)</h3>
-The Thorne dynasty were minor noble upstarts who, after years of warring with the Great Princes (since 1194), tired of decisions taking years to be put into place (and believing that due to their house name they were divinely destined to be the ruling dynasty), seized control of the Thorned Mere and declared it a hereditary kingdom. The Thornes legitimised their rule through a combination of military force and a strategic alliance with the emerging Church, which was consolidating its power around the same time. They allowed the Princes to retain some power, naming them Viceroyalties.<br>
+By the late 12th century, the Confederation had stalled. Decisions required unanimity among the six princes, and legislative gridlock paralyszed the realm; some councils lasted years without resolution. Minor nobles, including the Thornes of (tba), found themselves excluded from meaningful power despite their military capabilities and administrative competence.
+
+The Thornes leveraged widespread frustration with princely inefficiency, gathering support from disaffected vassals and merchant interests who desired stable governance. Simultaneously, (tba), a Seer of the ???, declared a vision: "The Thorn shall rise from the Mere and bind the Crown unto the Blood."
+
+This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.
 
 <h3>The Church Consolidation (c. 1280)</h3>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
