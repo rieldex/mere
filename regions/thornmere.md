@@ -93,48 +93,48 @@ The Great Houses form the backbone of Thornmere's political structure. Each hous
 <table>
   <thead>
     <tr>
-      <th>Header 1</th>
-      <th>Header 2</th>
-	  <th>Header 3</th>
-	  <th>Header 4</th>
+      <th>House</th>
+      <th>Domain</th>
+	  <th>Magical Specialisation</th>
+	  <th>Major Vassals</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>Moore</td>
+      <td>Scholarship, Magic</td>
+      <td>Academics, enchantments, knowledge</td>
+      <td>Harlowe, Nightingale</td>
     </tr>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>Solon</td>
+      <td>Military, Crown Authority</td>
+      <td>Knights, wards, martial magic</td>
+      <td>Enright, Lavergne</td>
     </tr>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>Castor</td>
+      <td>Law, Administration</td>
+      <td>Oaths, bindings, seals</td>
+      <td>Eclaire, Vulpe</td>
     </tr>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>Circia</td>
+      <td>Church, Theology</td>
+      <td>Divination, ritual, purification</td>
+      <td>Ruemont, Katse</td>
     </tr>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>Aimery</td>
+      <td>Land, Resources</td>
+      <td>Agriculture, food, earth</td>
+      <td>Morrow, Laine</td>
     </tr>
     <tr>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
-      <td>Row 1, Cell 1</td>
-      <td>Row 1, Cell 2</td>
+      <td>Ansell/td>
+      <td>Trade, Waterways</td>
+      <td>Navigation, communication</td>
+      <td>Laurent, Censer</td>
     </tr>
   </tbody>
 </table>
