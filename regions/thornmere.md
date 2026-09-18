@@ -131,7 +131,7 @@ The Great Houses form the backbone of Thornmere's political structure. Each hous
       <td>Morrow, Laine</td>
     </tr>
     <tr>
-      <td>Ansell/td>
+      <td>Ansell</td>
       <td>Trade, Waterways</td>
       <td>Navigation, communication</td>
       <td>Laurent, Censer</td>
