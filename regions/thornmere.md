@@ -17,7 +17,7 @@ title: "Thornmere"
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Capital</span>
-		<span class="infobox-value">Merewood</span>
+		<span class="infobox-value">Crown-in-the-Mere ("Crown's Mere")</span>
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Demonym</span>
@@ -57,7 +57,7 @@ title: "Thornmere"
 	</div>
 </div>
 
-The Kingdom of Thornmere, formerly known as the Confederation of the Thorned Mere, is the dominant power in the south. Its lands are scattered across marshes, inland seas, wetlands, and waterways, dotted with thorny forests that give the kingdom its name. It is old, wealthy, hierarchical, and deeply religious, ruled by both Crown and Church in an intertwined system of governance.
+The Kingdom of Thornmere, formerly known as the Confederation of the Thorned Mere, is the dominant power in the south. Governed from the grand, water-locked capital of Crown-in-the-Mere, its lands are scattered across marshes, inland seas, wetlands, and waterways, dotted with thorny forests that give the kingdom its name. It is old, wealthy, hierarchical, and deeply religious, ruled by both Crown and Church in an intertwined system of governance.
 <p></p>
 Noble blood is considered divinely favoured, and magical noble bloodlines are particularly prestigious. The kingdom is known throughout the known world for its magical education, and its noble academies and private tutors are sought after even by foreign powers.
 
