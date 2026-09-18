@@ -140,7 +140,7 @@ Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes 
 
 <h2>Law & Magic</h2>
 Blood magic is strictly forbidden under both Crown and Church law. The use of one's own blood or the blood of others to fuel magical workings is considered a desecration of the divine gift, and is punishable by death or permanent magical suppression through binding cuffs. The Church's Inquisitorial Court handles cases involving blood magic, necromancy, and desecration of corpses.
-
+<p></p>
 The master-apprentice tradition is legally codified in Thornmere. Apprentices are considered culpable for their master's crimes if they were aware of them and failed to report them. This doctrine of complicity is one of the cornerstones of Thornmere's magical regulation.
 
 <h2>Religion</h2>
