@@ -95,7 +95,7 @@ li {
   min-height: 600px;
 }
 
-.wiki-container h3 {
+.acc2 {
   color: var(--accent);
   font-weight: 900;
   font-size: 14px;
@@ -108,6 +108,8 @@ li {
   color: var(--accent);
   font-weight: 900;
   font-size: 18px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid var(--border);
 }
 
 hr {
