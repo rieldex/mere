@@ -64,8 +64,8 @@ Noble blood is considered divinely favoured, and magical noble bloodlines are pa
 
 <span class="acc">History</span>
 <hr />
-<b>The Confederation (c. 925)</b><br>
-
+<span class="acc2">The Confederation (c. 925)</span>
+<hr>
 The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities—each ruled by a Great Prince—pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
 
 <ul>
