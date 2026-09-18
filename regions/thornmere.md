@@ -83,7 +83,7 @@ The Thorne dynasty were minor noble upstarts who, after years of warring with th
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
 
 <h3>The Thornmere-Vet Engi Holy Wars (1300–1418)</h3>
-Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.
+Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.<br>
 
 <h2>Government & Society</h2>
 Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Great Lord, form the backbone of Thornmere's political structure; the Great Lords sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. They are:
@@ -146,10 +146,10 @@ The master-apprentice tradition is legally codified in Thornmere. Apprentices ar
 <em><b>Main Article</b>: <a href="https://rieldex.github.io/mere/faith/tetratism">Tetratism</a></em><br>
 Thornmere is generally monotheistic, worshipping Dyeus Tetratos, a single god who contains four aspects:
 <ul>
-	<li>Dyeus Artos (Law)</li>
-	<li>Dyeus Engus (Mercy)</li>
-	<li>Dyeus Ergos (Labour)</li>
-	<li>Dyeus Metis (Judgement)</li>
+	<li><b>Dyeus Artos</b> — Aspect of Law</li>
+	<li><b>Dyeus Engus</b> — Aspect of Mercy</li>
+	<li><b>Dyeus Ergos</b> — Aspect of Labour</li>
+	<li><b>Dyeus Metis</b> — Aspect of Judgement</li>
 </ul>
    
 The Church of Dyeus Tetratos wields significant political power, and its authority is intertwined with the Crown. The Church regulates magical practice, oversees rituals of purification, and maintains the Inquisitorial Court.
