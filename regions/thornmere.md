@@ -58,9 +58,9 @@ title: "Thornmere"
 </div>
 
 The Kingdom of Thornmere, formerly known as the Confederation of the Thorned Mere, is the dominant power in the south. Governed from the grand, water-locked capital of Crown-in-the-Mere, its lands are scattered across marshes, inland seas, wetlands, and waterways, dotted with thorny forests that give the kingdom its name. It is old, wealthy, hierarchical, and deeply religious, ruled by both Crown and Church in an intertwined system of governance.
-<br>
+<p></p>
 Noble blood is considered divinely favoured, and magical noble bloodlines are particularly prestigious. The kingdom is known throughout the known world for its magical education, and its noble academies and private tutors are sought after even by foreign powers.
-
+<br>
 <h2>History</h2>
 <h3>The Confederation (c. 925)</h3>
 The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities (each ruled by a Prince) pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
@@ -78,9 +78,9 @@ This confederation was not a kingdom, but a council of equals. Each Great Prince
 
 <h3>The Thorne Ascension (c. 1200)</h3>
 By the late 12th century, the Confederation had stalled. Decisions required unanimity among the six princes, and legislative gridlock paralyszed the realm; some councils lasted years without resolution. Minor nobles, including the Thornes of (tba), found themselves excluded from meaningful power despite their military capabilities and administrative competence.
-<br>
+<p></p>
 The Thornes leveraged widespread frustration with princely inefficiency, gathering support from disaffected vassals and merchant interests who desired stable governance. Simultaneously, (tba), a Seer of the ???, declared a vision: "The Thorn shall rise from the Mere and bind the Crown unto the Blood."
-<br>
+<p></p>
 This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.<br>
 
 <h3>The Church Consolidation (c. 1280)</h3>
@@ -145,7 +145,7 @@ Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes 
 
 <h2>Law & Magic</h2>
 Blood magic is strictly forbidden under both Crown and Church law. The use of one's own blood or the blood of others to fuel magical workings is considered a desecration of the divine gift, and is punishable by death or permanent magical suppression through binding cuffs. The Church's Inquisitorial Court handles cases involving blood magic, necromancy, and desecration of corpses.
-<br>
+<p></p>
 The master-apprentice tradition is legally codified in Thornmere. Apprentices are considered culpable for their master's crimes if they were aware of them and failed to report them. This doctrine of complicity is one of the cornerstones of Thornmere's magical regulation.
 
 <h2>Religion</h2>
