@@ -78,10 +78,10 @@ This confederation was not a kingdom, but a council of equals. Each Great Prince
 
 <h3>The Thorne Ascension (c. 1200)</h3>
 By the late 12th century, the Confederation had stalled. Decisions required unanimity among the six princes, and legislative gridlock paralyszed the realm; some councils lasted years without resolution. Minor nobles, including the Thornes of (tba), found themselves excluded from meaningful power despite their military capabilities and administrative competence.
-
+<br>
 The Thornes leveraged widespread frustration with princely inefficiency, gathering support from disaffected vassals and merchant interests who desired stable governance. Simultaneously, (tba), a Seer of the ???, declared a vision: "The Thorn shall rise from the Mere and bind the Crown unto the Blood."
-
-This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.
+<br>
+This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.<br>
 
 <h3>The Church Consolidation (c. 1280)</h3>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
