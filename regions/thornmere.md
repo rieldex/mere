@@ -83,7 +83,7 @@ The Thornes leveraged widespread frustration with princely inefficiency, gatheri
 <p></p>
 This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.
 <p></p>
-The first Lord Viceroys were:<br>
+The first Lord-Viceroys were:<br>
 
 <ul>
 <li><b>Viceroyal House of Moore</b> — Evangel Moore</li>
@@ -101,7 +101,7 @@ The Church of Dyeus Tetratos consolidated its authority heavily under the backin
 Thornmere engaged in a series of holy wars with Vet Engi, driven by religious tensions and territorial disputes. The most recent war, the Ninth Holy War, lasted from 1410 to 1418 and ended in a stalemate, with neither side gaining significant territory. The wars formally concluded with a diplomatic treaty, though relations remain tense.<br>
 
 <h2>Government & Society</h2>
-Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male-only primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Lord/Lady Viceroy, form the backbone of Thornmere's political structure; the Lord/Lady Viceroys sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. The heir to the house is known as a Count(ess)-Viceroy, and passes through male-preference primogeniture. They are:
+Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male-only primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Lord-Viceroy, form the backbone of Thornmere's political structure; the Lord-Viceroys sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. The heir to the house is known as a Count-Viceroy, and passes through male-preference primogeniture. They are:
 <br>
 <div class="table-scroll">
 <table>
@@ -193,27 +193,32 @@ The Church of Dyeus Tetratos wields significant political power, and its authori
     </tr>
     <tr>
       <td>House Moore</td>
-      <td>Lord Viceroy Ruthen Moore (40) <em>(Reese Moore disgraced)</em></td>
+      <td>Lord-Viceroy Ruthen Moore (40) <em>(Reese Moore disgraced)</em></td>
     </tr>
     <tr>
       <td>House Solon</td>
-      <td>Lord Viceroy Nicolas Solon (54)</td>
+      <td>Lord-Viceroy Nicolas Solon (54)</td>
     </tr>
     <tr>
       <td>House Castor</td>
-      <td>Lord Viceroy Ernest Castor (37)</td>
+      <td>Lord-Viceroy Ernest Castor (37)</td>
     </tr>
     <tr>
       <td>House Circia</td>
-      <td>Lord Viceroy Gawain Circia (40)</td>
+      <td>Lord-Viceroy Gawain Circia (40)</td>
     </tr>
     <tr>
-      <td>House Aimery</td>
-      <td>Lady Viceroy Clementine Aimery (27)</td>
+      <td>House-Aimery</td>
+      <td>Lady-Viceroy Clementine Aimery (27)</td>
     </tr>
     <tr>
       <td>House Ansell</td>
-      <td>Lord Viceroy Lorelei Ansell (29)</td>
+      <td>Lord-Viceroy Lorelei Ansell (29)</td>
     </tr>
   </tbody>
 </table></div>div>
+
+// to add:
+- peerage ranks?
+- more in depth history
+- pre-thorne stuff
