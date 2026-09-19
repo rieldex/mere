@@ -216,7 +216,7 @@ The Church of Dyeus Tetratos wields significant political power, and its authori
       <td>Lord-Viceroy Lorelei Ansell (29)</td>
     </tr>
   </tbody>
-</table></div>div>
+</table></div>
 
 // to add:
 - peerage ranks?
