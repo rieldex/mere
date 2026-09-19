@@ -25,7 +25,7 @@ title: "Thornmere"
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Government</span>
-		<span class="infobox-value">Feudal Monarchy</span>
+		<span class="infobox-value">Hereditary Feudal Monarchy</span>
 	</div>
 	<div class="infobox-row">
 		<span class="infobox-label">Ruler</span>
