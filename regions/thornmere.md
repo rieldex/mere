@@ -92,6 +92,7 @@ Thornmere engaged in a series of holy wars with Vet Engi, driven by religious te
 <h2>Government & Society</h2>
 Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes through male-only primogeniture. The heir is groomed to rule from a young age and is expected to demonstrate magical prowess, as magical ability is seen as a sign of divine favour. The Great Houses, ruled by a Lord/Lady Viceroy, form the backbone of Thornmere's political structure; the Lord/Lady Viceroys sit on a council and advise the king. Each house holds specific domains of influence and is responsible for different aspects of the kingdom's governance. The heir to the house is known as a Count(ess)-Viceroy, and passes through male-preference primogeniture. They are:
 <br>
+<div class="table-scroll">
 <table>
   <thead>
     <tr>
@@ -140,8 +141,9 @@ Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes 
     </tr>
   </tbody>
 </table>
+</div>
 
-// insert brief history on the houses here
+// insert brief history on the houses here - notable is circia = sucked up to the church and got involved with them
 
 <h2>Law & Magic</h2>
 Blood magic is strictly forbidden under both Crown and Church law. The use of one's own blood or the blood of others to fuel magical workings is considered a desecration of the divine gift, and is punishable by death or permanent magical suppression through binding cuffs. The Church's Inquisitorial Court handles cases involving blood magic, necromancy, and desecration of corpses.
@@ -161,6 +163,7 @@ Thornmere is generally monotheistic, worshipping Dyeus Tetratos, a single god wh
 The Church of Dyeus Tetratos wields significant political power, and its authority is intertwined with the Crown. The Church regulates magical practice, oversees rituals of purification, and maintains the Inquisitorial Court.
 
 <h2>Current State of Affairs</h2>
+<div class="table-scroll">
 <table>
   <thead>
     <tr>
@@ -202,4 +205,4 @@ The Church of Dyeus Tetratos wields significant political power, and its authori
       <td>Lord Viceroy Lorelei Ansell (29)</td>
     </tr>
   </tbody>
-</table>
+</table></div>div>
