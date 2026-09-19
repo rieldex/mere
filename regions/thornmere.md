@@ -130,7 +130,7 @@ Thornmere is ruled by a hereditary king of the Thorne dynasty. The crown passes 
       <td>Castor</td>
       <td>Law, Administration</td>
       <td>Oaths, bindings, seals</td>
-      <td>Seclair, Vulpe</td>
+      <td>Sinclair, Vulpe</td>
     </tr>
     <tr>
       <td>Circia</td>
