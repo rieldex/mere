@@ -63,7 +63,7 @@ Noble blood is considered divinely favoured, and magical noble bloodlines are pa
 <br>
 <h2>History</h2>
 <h3>The Confederation (c. 925)</h3>
-The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities (each ruled by a Prince) pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:
+The foundations of Thornmere lie in the Confederation of the Thorned Mere, formed when six local principalities (each ruled by a Prince) pledged to join together for mutual defence, trade, and religious unity. The founding Great Princes were:<br>
 
 <ul>
 <li><b>Yves Moore</b> — Scholarship & Magic</li>
@@ -81,7 +81,18 @@ By the late 12th century, the Confederation had stalled. Decisions required unan
 <p></p>
 The Thornes leveraged widespread frustration with princely inefficiency, gathering support from disaffected vassals and merchant interests who desired stable governance. Simultaneously, (tba), a Seer of the ???, declared a vision: "The Thorn shall rise from the Mere and bind the Crown unto the Blood."
 <p></p>
-This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.<br>
+This prophecy, interpreted as divine mandate for Thorne rule, provided theological cover a coup against a sclerotic system. The Thornes promised efficient monarchy in place of princocratic deadlock, and enough of the population (and Church hierarchy) agreed to make the six-year conquest sustainable.  They allowed the Princes to retain some power, naming them Viceroyalties.
+<p></p>
+The first Lord Viceroys were:<br>
+
+<ul>
+<li><b>Viceroyal House of Moore</b> — Evangel Moore</li>
+<li><b>Viceroyal House of Solon</b> — ???</li>
+<li><b>Viceroyal House of Castor</b> — ???</li>
+<li><b>Viceroyal House of Circia</b> — ???</li>
+<li><b>Viceroyal House of Aimery</b> — ???</li>
+<li><b>Viceroyal House of Ansell</b> — ???</li>
+</ul>
 
 <h3>The Church Consolidation (c. 1280)</h3>
 The Church of Dyeus Tetratos consolidated its authority heavily under the backing of the Thorne dynasty. In a mutually beneficial arrangement, the Church declared Thorne blood divine, sanctifying the new dynasty's rule, while the Crown granted the Church significant political power, land, and authority over magical regulation.<br>
