@@ -2,5 +2,3 @@ title: "The Annals of the Thorned Mere"
 description: "A wiki for the Kingdoms of Thornmere, Vet Engi, and the Eastern Marches"
 baseurl: "/mere"  
 url: "rieldex.github.io"
-kramdown:
-  parse_block_html: true 
