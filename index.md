@@ -9,6 +9,7 @@ title: "Main Page"
 
 * TOC
 {:toc}
+---
 
 ## About the World
 
