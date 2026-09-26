@@ -21,15 +21,16 @@ Magic in this world is innate. Only those born with the "Gift" can wield it. Thi
 
 ## Quick Links
 
-<div class="grid-container">
-  <div>
+<div class="grid-container" markdown="1">
+  <div markdown="1">
 
 - [Thornmere]({{ '/regions/thornmere' | relative_url }}) — The Southern Kingdom
 - [Vet Engi]({{ '/regions/vetengi' | relative_url }}) — The Winter Kingdom
 - [Thornmere]({{ '/regions/east' | relative_url }}) — The Principalities
 
   </div>
-  <div>
+  
+  <div markdown="1">
 
 - The Thorne Conquest (1194–1200)
 - Solon-Moore Rivalry (1370–present)
