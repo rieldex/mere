@@ -308,6 +308,7 @@ hr {
     margin-bottom: 5px;
   }
 
+
   .grid-container {
     grid-template-columns: 1fr;
     gap: 10px;
@@ -317,6 +318,32 @@ hr {
     width: 100%;
     margin: 0 0 15px 0;
   }
+
+  #markdown-toc {
+  float: left;
+  width: 220px;
+  background: var(--bg-secondary);
+  border: 2px solid var(--border);
+  padding: 15px;
+  margin: 0 20px 15px 0;
+  font-size: 14px;
+}
+
+#markdown-toc li {
+  border-left: 2px solid var(--accent);
+  padding-left: 10px;
+  margin-bottom: 8px;
+}
+
+#markdown-toc a {
+  color: var(--text-primary);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#markdown-toc a:hover {
+  color: var(--accent);
+}
 
   .wiki-container {
     min-height: auto;
