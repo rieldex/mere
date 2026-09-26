@@ -19,21 +19,20 @@ Magic in this world is innate. Only those born with the "Gift" can wield it. Thi
 
 - **Eastern Marches** — Magic is interpreted through the lens of ancestor worship and regional traditions. It is woven more regularly into daily life and spiritual practices, and is less politically concentrated than in Thornmere or Vet Engi.
 
-## Quick Links
-
 <div class="grid-container">
   <div>
-
-- [Thornmere](https://rieldex.github.io/mere/regions/thornmere) — The Southern Kingdom
-- [Vet Engi](https://rieldex.github.io/mere/regions/vetengi) — The Winter Kingdom
-- [Eastern Marches](https://rieldex.github.io/mere/regions/east) — The Principalities
-
+    <ul>
+      <li><a href="{{ '/regions/thornmere' | relative_url }}">Thornmere</a> — The Southern Kingdom</li>
+      <li><a href="{{ '/regions/vetengi' | relative_url }}">Vet Engi</a> — The Winter Kingdom</li>
+      <li><a href="{{ '/regions/east' | relative_url }}">Eastern Marches</a> — The Principalities</li>
+    </ul>
   </div>
+  
   <div>
-
-- The Thorne Conquest (1194–1200)
-- Solon-Moore Rivalry (1370–present)
-- 9th Vet Engi-Thornmere Holy War (1410–1418)
-
+    <ul>
+      <li>The Thorne Conquest (1194–1200)</li>
+      <li>Solon-Moore Rivalry (1370–present)</li>
+      <li>9th Vet Engi-Thornmere Holy War (1410–1418)</li>
+    </ul>
   </div>
 </div>
