@@ -52,6 +52,12 @@
     <!-- Main content -->
     <div class="wiki-container">
       {{ content }}
+      {% if page.toc %}
+      <div class="toc">
+      <h4>Contents</h4>
+      {% toc %}
+    </div>
+    {% endif %}
     </div>
   </div>
 </body>
