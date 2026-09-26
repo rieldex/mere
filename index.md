@@ -5,7 +5,7 @@ title: "Main Page"
 
 > *"By Blood and Crown, By Thorn and Mere" — Royal Motto of Thornmere*
 
-## Table of Contents
+* Contents
 {:toc}
 
 ## About the World
