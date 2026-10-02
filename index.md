@@ -1,40 +1,74 @@
 ---
 layout: wiki
-title: "Main Page"
+title: Main Page
 ---
 
-> *"By Blood and Crown, By Thorn and Mere" — Royal Motto of Thornmere*
-
-## About the World
-
-This wiki is a comprehensive repository of knowledge for this gothic medieval fantasy setting where magic is innate and kingdoms vie for power, influence, and divine favour. The world is divided into three major regions: the southern Kingdom of Thornmere, the northern Vetrarengisríki (Vet Engi), and the politically fragmented Eastern Marches. Magic is innate to certain bloodlines or manifested spontaneously, manifesting as the "gift" that can be cultivated through study and training. The current year is 1527.
-
-## Magic in the World
-
-Magic in this world is innate. Only those born with the "Gift" can wield it. This is typical of noble bloodlines, but noble blood is not a guarantee of the Gift; it can also manifest spontaneously in commoners, though this is rarer and often less cultivated. Once manifested, magical ability can be honed through rigorous study and training. The social and political importance of magic varies by region:
-
-- **Thornmere** — Magic is highly studied and formalised. Noble bloodlines with magical heritage are considered divinely favoured, and magical education is among the most renowned in the known world. Blood magic is strictly forbidden under both Crown and Church law, punishable by death or permanent magical suppression. The master-apprentice relationship is sacred through Thornmere. Apprentices are considered culpable for their master's crimes, as it is their responsibility to be aware and report wrongdoing. Failure to do so is seen as complicity.
-
-- **Vet Engi** — Magic is viewed as a wild, natural force, an extension of the land, the seasons, and the gods. It is less formally studied and more respected as an aspect of nature itself. Blood magic is not explicitly forbidden, but is frowned upon as a perversion of the natural order. Consanguineous marriages in order to concentrate certain gifts is common.
-
-- **Eastern Marches** — Magic is interpreted through the lens of ancestor worship and regional traditions. It is woven more regularly into daily life and spiritual practices, and is less politically concentrated than in Thornmere or Vet Engi.
-
-## Quick Links
-
-<div class="grid-container">
-  <div>
-    <ul>
-      <li><a href="{{ '/regions/thornmere' | relative_url }}">Thornmere</a> — The Southern Kingdom</li>
-      <li><a href="{{ '/regions/vetengi' | relative_url }}">Vet Engi</a> — The Winter Kingdom</li>
-      <li><a href="{{ '/regions/east' | relative_url }}">Eastern Marches</a> — The Principalities</li>
-    </ul>
-  </div>
-  
-  <div>
-    <ul>
-      <li>The Thorne Conquest (1194–1200)</li>
-      <li>Solon-Moore Rivalry (1370–present)</li>
-      <li>9th Vet Engi-Thornmere Holy War (1410–1418)</li>
-    </ul>
+<!-- TW/CW Modal -->
+<div id="twcw-modal">
+  <div class="twcw-backdrop">
+    <div class="twcw-content">
+      <h2>Content Warning</h2>
+      <p>This wiki contains depictions of:</p>
+      <ul>
+        <li>Graphic violence and torture</li>
+        <li>Psychological abuse and manipulation</li>
+        <li>Death, necromancy, and body horror</li>
+        <li>Suicide and self-harm</li>
+        <li>Non-consensual magical compulsion / mind control</li>
+        <li>Child abuse (medical experimentation)</li>
+      </ul>
+      <p>Additional themes include obsessive/codependent relationships, identity erasure, and grief/madness.</p>
+      
+      <div class="twcw-actions">
+        <button onclick="dismissTWCW()" class="twcw-btn">Enter Wiki</button>
+        <button onclick="goBack()" class="twcw-btn secondary">Go Back</button>
+      </div>
+      <p class="twcw-note">This warning will not appear again on this device.</p>
+    </div>
   </div>
 </div>
+
+<!-- Your actual homepage content starts here -->
+<div id="main-content" style="display:none;">
+
+<h2 class="acc">Welcome to The Annals of the Thorned Mere</h2>
+
+<p>A comprehensive record of the Kingdoms of Thornmere, Vet Engi, and the Eastern Marches. 
+This encyclopedia documents the history, politics, and personages of a world divided between 
+three powers, where magic flows through bloodlines and ancient faiths shape the destiny of nations.</p>
+
+<h3 class="acc2">Quick Navigation</h3>
+<ul>
+  <li><strong>Regions:</strong> Explore <a href="{{ '/regions/thornmere' | relative_url }}">Thornmere</a>, <a href="{{ '/regions/vetengi' | relative_url }}">Vet Engi</a>, and the <a href="{{ '/regions/east' | relative_url }}">Eastern Marches</a></li>
+  <li><strong>Characters:</strong> Browse <a href="{{ '/chars/main' | relative_url }}">main characters</a>, <a href="{{ '/chars/historical' | relative_url }}">historical figures</a>, and <a href="{{ '/chars/world' | relative_url }}">world characters</a></li>
+  <li><strong>History:</strong> View the <a href="{{ '/history/timeline' | relative_url }}">modern timeline</a> or <a href="{{ '/history/historical' | relative_url }}">historical records</a></li>
+  <li><strong>Faith:</strong> Learn about <a href="{{ '/faith/tetratism' | relative_url }}">Tetratism</a> and the <a href="{{ '/faith/twelve' | relative_url }}">Faith of the Twelve</a></li>
+</ul>
+
+<h3 class="acc2">Setting Overview</h3>
+<p><strong>Themes:</strong> Gothic Horror | Medieval Fantasy | Medium Magic<br>
+<strong>Current Year:</strong> 1527<br>
+<strong>Magic System:</strong> Innate gift tied to spirit resonance, with blood magic as the ultimate taboo.</p>
+
+</div>
+
+<script>
+function dismissTWCW() {
+  localStorage.setItem('twcw-acknowledged', 'true');
+  document.getElementById('twcw-modal').style.display = 'none';
+  document.getElementById('main-content').style.display = 'block';
+  document.body.classList.remove('modal-open');
+}
+
+function goBack() {
+  history.back();
+}
+
+// Check on load
+if (!localStorage.getItem('twcw-acknowledged')) {
+  document.getElementById('twcw-modal').style.display = 'block';
+  document.body.classList.add('modal-open');
+} else {
+  document.getElementById('main-content').style.display = 'block';
+}
+</script>
