@@ -17,8 +17,8 @@ title: Main Page
   <p>Additional themes: obsessive/codependent relationships, identity erasure, grief/madness.</p>
 </div>
 
-<h2 class="acc">Welcome to The Annals of the Thorned Mere</h2>
+<h2>The Annals of the Mere</h2>
 
-<p>A comprehensive record of the Kingdoms of Thornmere, Vet Engi, and the Eastern Marches...</p>
+<p>The world is divided between three major powers: Vetrarengisríki (Vet Engi) in the north, The Kingdom of the Mere in the south, and The Marches straddling the borderlands between them.</p>
 
 <!-- rest of your content -->
